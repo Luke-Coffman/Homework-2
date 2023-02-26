@@ -6,7 +6,7 @@
 		<form>
 		<a href= 'http://localhost/HW2_New/User_Login.php'>User Login</a><br>
 		<a href= 'http://localhost:/HW2_New/user-list.php'>User List</a><br>
-		<a href= 'http://localhost:/HW2_New/user-details.php'>User D</a><br><br>
+		<a href= 'http://localhost:/HW2_New/user-details.php'>User Details</a><br><br>
 			User Name:<br>
 			<input type = 'text' name='User name'><br>
 			Password:<br>

@@ -4,7 +4,7 @@
 	</head>
 		<h1>User List</h1>
 		
-		<form action= 'http://localhost:/HW2_New/user_add/.php'> <button type = 'submit'> Add a User </button><br><br>
+		<form action= 'http://localhost:/HW2_New/user-add/.php'> <button type = 'submit'> Add a User </button><br><br>
 	<body>
 	<a href= 'http://localhost/HW2_New/User-Login.php'>User Login</a><br>
 	<a href= 'http://localhost:/HW2_New/user-details.php'>User Details</a><br>

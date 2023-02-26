@@ -3,7 +3,7 @@
 	<body>
 	<a href= 'http://localhost/HW2_New/user-list.php'>User List</a><br>
 	<a href= 'http://localhost/HW2_New/user-details.php'>User Details</a><br>
-	<a href= 'http://localhost/HW2_New/user-details.php'>User Add</a><br>
+	<a href= 'http://localhost/HW2_New/user-add.php'>User Add</a><br>
 
 		<p> Username:
 		<form method='post' action='User_Login.php'>
